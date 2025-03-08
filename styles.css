@@ -1031,7 +1031,7 @@ header {
 }
 
 .ruler {
-    /* margin-inline: 9rem; */
+    margin-inline: 9rem;
     position: relative;
     top: -500px;
 }
